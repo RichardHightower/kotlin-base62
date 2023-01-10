@@ -52,7 +52,7 @@
 
 Porting Base62Encoder/Decoder from Scala to Kotlin.
 
-[Link To video](https://youtu.be/1kbAUob3Bi0)
+[Link To video](https://youtu.be/1kbAUob3Bi0) TODO
 
 ## Scala to Kotlin
 
